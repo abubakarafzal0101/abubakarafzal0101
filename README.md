@@ -9,10 +9,10 @@
   <a href="https://abubakar-portfolio-blond.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/abubakar-afzal-737889407" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:itx.abubakar777@gmail.com">
+  <a href="mailto:abubakarafzal0101@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/923296042791" target="_blank">
@@ -72,7 +72,7 @@ Over the past two years, I have progressed from learning web development fundame
 Full-stack e-commerce platform built with the MERN stack. Includes product listings, cart management, user authentication, and a complete admin panel.
 
 **Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS · JWT Auth  
-🔗 [GitHub](https://github.com/YOUR_USERNAME/ecommerce) &nbsp;|&nbsp; 🌐 [Live Demo](https://your-ecommerce-link.vercel.app)
+ 🌐 [Live Demo](https://your-ecommerce-link.vercel.app)
 
 ---
 
@@ -80,7 +80,7 @@ Full-stack e-commerce platform built with the MERN stack. Includes product listi
 Professional restaurant website with a modern UI, menu showcase, and responsive design built for a real client.
 
 **Tech:** React · Tailwind CSS · Responsive Design  
-🔗 [GitHub](https://github.com/YOUR_USERNAME/pizza-italo) &nbsp;|&nbsp; 🌐 [Live Demo](https://pizzaitalo.food/)
+🌐 [Live Demo](https://pizzaitalo.food/)
 
 ---
 
@@ -88,7 +88,7 @@ Professional restaurant website with a modern UI, menu showcase, and responsive 
 A clean, conversion-focused landing page for an investment platform with smooth animations and modern layout.
 
 **Tech:** React · Tailwind CSS · Frontend Architecture  
-🔗 [GitHub](https://github.com/YOUR_USERNAME/investify) &nbsp;|&nbsp; 🌐 [Live Demo](https://investify-site.vercel.app)
+ 🌐 [Live Demo](https://investify-site.vercel.app)
 
 ---
 
@@ -96,7 +96,7 @@ A clean, conversion-focused landing page for an investment platform with smooth 
 A complete personal portfolio website with a custom CMS admin panel to manage projects, skills, and content dynamically — no hardcoded data.
 
 **Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS  
-🔗 [GitHub](https://github.com/YOUR_USERNAME/portfolio) &nbsp;|&nbsp; 🌐 [Live Demo](https://abubakar-portfolio-blond.vercel.app)
+🌐 [Live Demo](https://abubakar-portfolio-blond.vercel.app)
 
 ---
 
@@ -139,10 +139,10 @@ A complete personal portfolio website with a custom CMS admin panel to manage pr
 
 I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
-📧 **Email:** [itx.abubakar777@gmail.com](mailto:itx.abubakar777@gmail.com)  
+📧 **Email:** [itx.abubakar777@gmail.com](mailto:abubakarafzal0101@gmail.com)  
 📱 **WhatsApp:** [+92 329 6042791](https://wa.me/923296042791)  
 🌐 **Portfolio:** [abubakar-portfolio-blond.vercel.app](https://abubakar-portfolio-blond.vercel.app)  
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/YOUR_LINKEDIN)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abubakar-afzal-737889407)
 
 ---
 
