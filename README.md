@@ -127,11 +127,11 @@ Delivered custom web solutions to clients — handling full project lifecycle fr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarafzla0101&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarafzla0101&layout=compact&hide_border=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abubakarafzla0101&theme=default&hide_border=true)
 
 </div>
 
